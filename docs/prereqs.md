@@ -21,7 +21,10 @@ Downloaded but not installed (we'll cover installation steps in the workshop):
 * [Bot Template](aka.ms/bf-bc-vstemplate)
 * [Bot Channel Emulator](aka.ms/bf-bc-emulator)
 
+
+
 Finally, and importantly: make sure you have signed up to Azure:
+------------
 * Goto [https://azure.microsoft.com/en-gb/free/](https://azure.microsoft.com/en-gb/free/)
 * Walk through the registration process. You will need to supply a valid credit card, but it won't be charged unless you choose to alter the default payment settings.
 * Make a note of your Azure login details as we will be using them during the workshop.
