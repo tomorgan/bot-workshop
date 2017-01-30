@@ -1,3 +1,3 @@
 # Skype Bots Workshop
 
-[Review the Prereqs](Prereqs)
+[Review the Prereqs](prereqs)
