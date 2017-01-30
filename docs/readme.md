@@ -1,2 +1,3 @@
-#Skype Bots Workshop
+# Skype Bots Workshop
 
+[Review the Prereqs](Prereqs)
