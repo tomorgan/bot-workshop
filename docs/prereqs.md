@@ -16,11 +16,11 @@ Installed already on your laptop:
   * Alternatively, [Fiddler](http://www.telerik.com/fiddler) is a good substitute to Postman if you don't have Chrome.
 * [Skype Consumer Client](https://www.skype.com/en/download-skype/skype-for-computer/) - and make sure you've registered etc.
   
+  
 Downloaded but not installed (we'll cover installation steps in the workshop):
 ------------
 * [Bot Template](aka.ms/bf-bc-vstemplate)
 * [Bot Channel Emulator](aka.ms/bf-bc-emulator)
-
 
 
 Finally, and importantly: make sure you have signed up to Azure:
