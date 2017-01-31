@@ -10,12 +10,12 @@ You should be a competent .NET programmer, although decent programmers from simi
 
 Installed already on your laptop:
 ------------
-* Windows : some of the code templates won't work cleanly with Macs and I've not tested things like the emulator with Mac. You're welcome to attend anyway and either try and get through it, or pair up with a Windows user for the morning and we'll work it out as best we can.
-* A web browswer. Chrome is a good pick as it works with Postman (below) but any major browser should be fine.
-* Visual Studio (TODO: link, once tested with community)
-* [Postman extension for Chrome](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+* _Windows_ : some of the code templates won't work cleanly with Macs and I've not tested things like the emulator with Mac. You're welcome to attend anyway and either try and get through it, or pair up with a Windows user for the morning and we'll work it out as best we can.
+* _A web browswer_ : Chrome is a good pick as it works with Postman (below) but any major browser should be fine.
+* _Visual Studio_ : if you don't already have this you can download the free Visual Studio Community from https://www.visualstudio.com/downloads/
+* _A HTTP tracer_ : such as [Postman extension for Chrome](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   * Alternatively, [Fiddler](http://www.telerik.com/fiddler) is a good substitute to Postman if you don't have Chrome, or you can use anything which allows you to monitor and work with HTTP calls.
-* [Skype Consumer Client](https://www.skype.com/en/download-skype/skype-for-computer/) - and make sure you've registered etc.
+* _Skype_ (to test your bot) if you don't have this already download the [Skype Consumer Client](https://www.skype.com/en/download-skype/skype-for-computer/) - and make sure you've registered etc.
   
   
 Downloaded but not installed (we'll cover installation steps in the workshop):
@@ -24,8 +24,11 @@ Downloaded but not installed (we'll cover installation steps in the workshop):
 * [Bot Channel Emulator](https://emulator.botframework.com/)
 
 
-Finally, and importantly: make sure you have signed up to Azure:
+Finally, and importantly: make sure you have a valid Azure account.
 ------------
+
+If you don't alreay have one, you can sign up free for a trial with credit:
+
 * Goto [https://azure.microsoft.com/en-gb/free/](https://azure.microsoft.com/en-gb/free/)
 * Walk through the registration process. You will need to supply a valid credit card, but it won't be charged unless you choose to alter the default payment settings.
 * Make a note of your Azure login details as we will be using them during the workshop.
