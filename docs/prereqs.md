@@ -7,7 +7,7 @@ It's probably a good idea to download any needed files at home/work to reduce st
 
 Is this workshop for you?
 ------------
-You should be a competent .NET programmer, although decent programmers from similar languages will likely do just fine. You should be comfortable in Visual Studio and understand how to work with REST APIs. You don't need to know anything about Azure or the Bot Framework.
+You should be a competent .NET programmer, although decent programmers from similar languages will likely do just fine. It will help if you are comfortable in Visual Studio and understand how to work with REST APIs. You don't need to know anything about Azure or the Bot Framework.
 
 Installed already on your laptop:
 ------------
