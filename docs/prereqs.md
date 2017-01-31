@@ -16,7 +16,7 @@ Installed already on your laptop:
 * __Visual Studio__ : if you don't already have this you can download the free Visual Studio Community from https://www.visualstudio.com/downloads/
 * __A HTTP tracer__ : such as [Postman extension for Chrome](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   * Alternatively, [Fiddler](http://www.telerik.com/fiddler) is a good substitute to Postman if you don't have Chrome, or you can use anything which allows you to monitor and work with HTTP calls.
-* __Skype__ (to test your bot) if you don't have this already download the [Skype Consumer Client](https://www.skype.com/en/download-skype/skype-for-computer/) - and make sure you've registered etc.
+* __Skype__ (to test your bot) if you don't have this already download the [Skype Consumer Client for PC](https://www.skype.com/en/download-skype/skype-for-computer/), or download to your mobile - and make sure you've registered etc.
   
   
 Downloaded but not installed (we'll cover installation steps in the workshop):
