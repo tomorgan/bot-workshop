@@ -13,7 +13,7 @@ Installed already on your laptop:
 ------------
 * __Windows__ : some of the code templates won't work cleanly with Macs and I've not tested things like the emulator with Mac. You're welcome to attend anyway and either try and get through it, or pair up with a Windows user for the morning and we'll work it out as best we can.
 * __A web browswer__ : Chrome is a good pick as it works with Postman (below) but any major browser should be fine.
-* _Visual Studio_ : if you don't already have this you can download the free Visual Studio Community from https://www.visualstudio.com/downloads/
+* __Visual Studio__ : if you don't already have this you can download the free Visual Studio Community from https://www.visualstudio.com/downloads/
 * __A HTTP tracer__ : such as [Postman extension for Chrome](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   * Alternatively, [Fiddler](http://www.telerik.com/fiddler) is a good substitute to Postman if you don't have Chrome, or you can use anything which allows you to monitor and work with HTTP calls.
 * __Skype__ (to test your bot) if you don't have this already download the [Skype Consumer Client](https://www.skype.com/en/download-skype/skype-for-computer/) - and make sure you've registered etc.
