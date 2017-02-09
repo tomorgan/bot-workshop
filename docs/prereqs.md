@@ -13,7 +13,8 @@ Installed already on your laptop:
 ------------
 * __Windows__ : some of the code templates won't work cleanly with Macs and I've not tested things like the emulator with Mac. You're welcome to attend anyway and either try and get through it, or pair up with a Windows user for the morning and we'll work it out as best we can.
 * __A web browswer__ : Chrome is a good pick as it works with Postman (below) but any major browser should be fine.
-* __Visual Studio__ : if you don't already have this you can download the free Visual Studio Community from [https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads/).
+* __Visual Studio__ : (at least 2015 Update 3 to prevent problems with publishing to Azure). If you don't already have this you can download the free Visual Studio Community from [https://www.visualstudio.com/downloads/](https://www.visualstudio.com/downloads/).
+* __Azure SDK__ : (latest version to prevent problems with publishing to Azure). Download from: [https://go.microsoft.com/fwlink/?LinkId=518003&clcid=0x409](https://go.microsoft.com/fwlink/?LinkId=518003&clcid=0x409)
 * __A HTTP tracer__ : such as [Postman extension for Chrome](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   * Alternatively, [Fiddler](http://www.telerik.com/fiddler) is a good substitute to Postman if you don't have Chrome, or you can use anything which allows you to monitor and work with HTTP calls.
 * __Skype__ (to test your bot) if you don't have this already download the [Skype Consumer Client for PC](https://www.skype.com/en/download-skype/skype-for-computer/), or download to your mobile - and make sure you've registered etc.
