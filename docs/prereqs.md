@@ -22,7 +22,7 @@ Installed already on your laptop:
   
 Downloaded but not installed (we'll cover installation steps in the workshop):
 ------------
-* [Bot Template](aka.ms/bf-bc-vstemplate)
+* [Bot Template](http://aka.ms/bf-bc-vstemplate)
 * [Bot Channel Emulator](https://emulator.botframework.com/)
 
 
